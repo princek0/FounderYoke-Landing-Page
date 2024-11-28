@@ -183,7 +183,7 @@ p {
   height: 100%;
   top: 0;
   left: 0;
-  background: rgba(255, 255, 255, 0.1);
+  background: #02020B;
   border-radius: inherit;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -1010,7 +1010,7 @@ p {
 }
 
 main.main-06 {
-  background: #0A0A0A;
+  background: #02020B;
   overflow: hidden;
 }
 
@@ -1258,7 +1258,7 @@ main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social
 
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social-links li a {
   font-size: 18px;
-  color: #0A0A0A;
+  color: #02020B;
 }
 
 main .main-wrapper.demo-06 .team-area .team-wrapper .team-item .team-img .social-links li a:hover {
